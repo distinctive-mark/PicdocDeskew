@@ -102,8 +102,8 @@ class Internationalization:
                 'drag_prompt': "拖拽图片或文件夹至此",
                 'shortcuts_prompt': (" L: 锁定尺寸(保存前裁切至原尺寸) \n\n P: 从光标处获得填充色 \n\n 左键单击: 两点调平 \n\n "
                                    "滚轮单击: 重置缩放 \n\n A/D: 保存修改并切换 \n\n Q/E: 旋转图片内容 \n\n "
-                                   "数字键+回车: 单次旋转角度 \n\n 删除键: 清空图片(初始化) \n\n V: 自动纠偏当前图片 \n\n "
-                                   "B: 批量自动纠偏 \n\n H: 切换霍夫方法 \n\n Tab: 切换语言 \n\n F1: 源代码详情"),
+                                   "数字键+回车: 单次旋转角度 \n\n 删除键: 清空图片(初始化) \n\n "
+                                   "H: 切换霍夫方法 \n\n F1: 源代码详情 \n\n Tab: Switch English"),
                 
                 # 警告和错误信息
                 'no_images_warning': "没有可纠偏的图片",
@@ -180,8 +180,8 @@ class Internationalization:
                 'drag_prompt': "Drag pictures or folder here",
                 'shortcuts_prompt': (" L: Lock size(crop to original before save) \n\n P: Pick background color \n\n LMB Click: Two-point deskewing \n\n "
                                    "MMB Click: Reset zoom \n\n A/D: Save and navigate \n\n Q/E: Rotate picture \n\n "
-                                   "Num+Enter: Single rotation angle \n\n Delete: Reset software \n\n V: Auto deskew current \n\n "
-                                   "B: Batch auto deskew \n\n H: Switch Hough method \n\n Tab: Switch language \n\n F1: Source Code Details"),
+                                   "Num+Enter: Single rotation angle \n\n Delete: Reset software \n\n "
+                                   "H: Switch Hough method \n\n F1: Source Code Details \n\n Tab: 切换中文"),
                 
                 # Warning and error messages
                 'no_images_warning': "No pictures to deskew",
