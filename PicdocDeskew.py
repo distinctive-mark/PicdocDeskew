@@ -935,7 +935,7 @@ class SizeLockManager:
     
     def __init__(self, app):
         self.app = app
-        self.lock_size = False  # 默认关闭
+        self.lock_size = True  # 默认开启
         self.original_size = None  # 原始图片尺寸
         
     def toggle_lock(self):
